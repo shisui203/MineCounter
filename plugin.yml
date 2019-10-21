@@ -1,0 +1,9 @@
+name: MineCounter
+api: [3.0.0,3.9.5]
+main: counter\Main
+version: 1.0.0
+description: Đếm số block đã bị phá bởi người chơi (Cấm chỉnh sửa tên tác giả dưới mọi hình thức)
+author: zywnoO
+commands: 
+ cblock: 
+  description: Đếm số block bị phá hủy
